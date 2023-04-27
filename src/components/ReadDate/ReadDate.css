@@ -1,0 +1,16 @@
+.dateStyle {
+  width: 300px;
+  height: auto;
+  margin: 1rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px;
+  display: flex;
+  padding: auto;
+  background-color: rgb(45, 192, 5);
+}
+
+.style {
+  flex-grow: 1;
+  text-align: center;
+}
